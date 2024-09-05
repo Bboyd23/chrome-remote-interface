@@ -1,3 +1,4 @@
+close
 # chrome-remote-interface
 
 [![CI status](https://github.com/cyrus-and/chrome-remote-interface/actions/workflows/ci.yml/badge.svg)](https://github.com/cyrus-and/chrome-remote-interface/actions?query=workflow:CI)
