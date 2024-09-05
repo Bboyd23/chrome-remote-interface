@@ -987,3 +987,4 @@ See [#240] for a more thorough discussion.
 - [Awesome chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 [Chrome Debugging Protocol]: https://chromedevtools.github.io/devtools-protocol/
+close
